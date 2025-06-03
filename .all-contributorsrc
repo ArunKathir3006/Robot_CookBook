@@ -1,0 +1,168 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "adrianyorke",
+      "name": "Adrian Yorke",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/30093433?v=4",
+      "profile": "https://github.com/adrianyorke",
+      "contributions": [
+        "code",
+        "doc",
+        "maintenance",
+        "review"
+      ]
+    },
+    {
+      "login": "tompurl",
+      "name": "Tom Purl",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/588713?v=4",
+      "profile": "http://www.tompurl.com",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "szabolcstoth",
+      "name": "Szabolcs Tóth",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1639751?v=4",
+      "profile": "http://szabolcstoth.eu",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "rasjani",
+      "name": "Jani Mikkonen",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/27887?v=4",
+      "profile": "https://rasjani.github.io",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "bhirsz",
+      "name": "Bartłomiej Hirsz",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/8532066?v=4",
+      "profile": "https://github.com/bhirsz",
+      "contributions": [
+        "code",
+        "doc",
+        "maintenance",
+        "review"
+      ]
+    },
+    {
+      "login": "tuxmux28",
+      "name": "Christoph",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/2794048?v=4",
+      "profile": "https://github.com/tuxmux28",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "mkorpela",
+      "name": "Mikko Korpela",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/136885?v=4",
+      "profile": "https://github.com/mkorpela",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "ericbjones",
+      "name": "ericbjones",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1847952?v=4",
+      "profile": "https://github.com/ericbjones",
+      "contributions": [
+        "design",
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "emna24",
+      "name": "Emna Ayadi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6690738?v=4",
+      "profile": "https://emnaayadi.wordpress.com/",
+      "contributions": [
+        "userTesting",
+        "code"
+      ]
+    },
+    {
+      "login": "joonvena",
+      "name": "Joonas Venäläinen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38143731?v=4",
+      "profile": "https://medium.com/@joonasvenlinen",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "olakowalczyk",
+      "name": "Aleksandra Kowalczyk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60587401?v=4",
+      "profile": "https://github.com/olakowalczyk",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "kiblik1",
+      "name": "Martin Škopek",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12598836?v=4",
+      "profile": "https://github.com/kiblik1",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "sarafurd",
+      "name": "sarafurd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67877801?v=4",
+      "profile": "https://github.com/sarafurd",
+      "contributions": [
+        "doc",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "jepoy92",
+      "name": "Jeff Choi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65995065?v=4",
+      "profile": "https://jepoy92.github.io/webdev-portfolio/",
+      "contributions": [
+        "doc",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "ChinoUkaegbu",
+      "name": "ChinoUkaegbu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77782533?v=4",
+      "profile": "https://github.com/ChinoUkaegbu",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "robotframework-cookbook",
+  "projectOwner": "adrianyorke",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "commitConvention": "angular",
+  "commitType": "docs"
+}
