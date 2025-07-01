@@ -7,5 +7,4 @@ robotframework-sshlibrary
 robotframework-pabot
 robotframework-seleniumlibrary
 robotframework-seleniumtestability
-webdrivermanager
 robotframework-aws
